@@ -1,20 +1,28 @@
-<h1 align="center">Hi 👋, I'm Shreejay Kurhade</h1>
-<h3 align="center">A passionate Computer Science student from India.</h3>
+# Hi there, I'm Shreejay Kurhade! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreejaykurhade&label=Profile%20views&color=0e75b6&style=flat" alt="shreejaykurhade" /> </p>
+I'm a passionate Computer Science student, proficient in various languages and tools, including C, C++, Python, HTML, CSS, Git, Figma, and Linux. I love coding and designing, and I'm always open to learning new things to enhance my skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shreejaykurhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreejay-kurhade" height="30" width="40" /></a>
-<a href="https://instagram.com/shreejay_kurhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreejay_kurhade" height="30" width="40" /></a>
-<a href="https://www.behance.net/shreejaykurhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shreejaykurhade" height="30" width="40" /></a>
-</p>
+## 🔧 Technologies & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreejaykurhade&show_icons=true&locale=en&layout=compact" alt="shreejaykurhade" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreejaykurhade&show_icons=true&locale=en" alt="shreejaykurhade" /></p>
+![Shreejay Kurhade's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreejaykurhade&show_icons=true&theme=radical&title_color=blue)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreejaykurhade&" alt="shreejaykurhade" /></p>
+## 🌟 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaykurhade&layout=compact&theme=radical&title_color=blue)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreejaykurhade/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shreejay_kurhade/)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/shreejaykurhade)
