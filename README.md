@@ -21,6 +21,8 @@ I'm a passionate Computer Science student. I love coding and designing, and I'm 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaykurhade&layout=compact&theme=radical&title_color=blue)
 
+![Profile Views](https://komarev.com/ghpvc/?username=shreejaykurhade&color=blue)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreejaykurhade/)
