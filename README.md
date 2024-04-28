@@ -1,6 +1,8 @@
 # Hi there, I'm Shreejay Kurhade! 👋
 
-I'm a passionate Computer Science student. I love coding and designing, and I'm always open to learning new things to enhance my skills.
+I'm a passionate Computer Science student.I love coding and designing, and I'm always open to learning new things to enhance my skills.
+
+![Profile Views](https://komarev.com/ghpvc/?username=shreejaykurhade&color=blue)
 
 ## 🔧 Technologies & Tools
 
@@ -20,8 +22,6 @@ I'm a passionate Computer Science student. I love coding and designing, and I'm 
 ## 🌟 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaykurhade&layout=compact&theme=radical&title_color=blue)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shreejaykurhade&color=blue)
 
 ## 🌐 Connect with Me
 
