@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shreejay Kurhade!
 
-I'm a passionate Computer Science student.I love coding and designing, and I'm always open to learning new things to enhance my skills.
+I'm a passionate Computer Science student. I love coding and designing, and I'm always open to learning new things to enhance my skills.
 
 ## Connect with me on
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreejaykurhade/)
