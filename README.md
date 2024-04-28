@@ -1,8 +1,13 @@
-# Hi there, I'm Shreejay Kurhade! 👋
+# Hi there 👋, I'm Shreejay Kurhade!
 
 I'm a passionate Computer Science student.I love coding and designing, and I'm always open to learning new things to enhance my skills.
 
-## 🔧 Technologies & Tools
+## Connect with me on
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreejaykurhade/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shreejay_kurhade/)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/shreejaykurhade)
+
+## 🔧 Technologies & Tools 
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -17,14 +22,12 @@ I'm a passionate Computer Science student.I love coding and designing, and I'm a
 
 ![Shreejay Kurhade's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreejaykurhade&show_icons=true&theme=radical&title_color=blue)
 
+![Profile Views](https://komarev.com/ghpvc/?username=shreejaykurhade&color=blue)
+
 ## 🌟 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaykurhade&layout=compact&theme=radical&title_color=blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shreejaykurhade&color=blue)
 
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreejaykurhade/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shreejay_kurhade/)
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/shreejaykurhade)
+
