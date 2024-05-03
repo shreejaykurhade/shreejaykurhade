@@ -7,12 +7,6 @@ I'm a passionate Computer Science student. I love coding and designing, and I'm 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shreejay_kurhade/)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/shreejaykurhade)
 
-## 📊 GitHub Stats
-
-![Shreejay Kurhade's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreejaykurhade&show_icons=true&theme=radical&title_color=blue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaykurhade&layout=compact&theme=radical&title_color=blue)
-
 ## 🔧 Technologies & Tools 
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -25,6 +19,11 @@ I'm a passionate Computer Science student. I love coding and designing, and I'm 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
+## 📊 GitHub Stats
+
+![Shreejay Kurhade's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreejaykurhade&show_icons=true&theme=radical&title_color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaykurhade&layout=compact&theme=radical&title_color=blue)
 
 
 
