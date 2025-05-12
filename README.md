@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shreejay Kurhade!
+# Hi there 👋 , I'm Shreejay Kurhade!
 
 I'm a passionate Computer Science student. I love coding and designing, and I'm always open to learning new things to enhance my skills.
 
