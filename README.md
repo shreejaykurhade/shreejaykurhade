@@ -45,7 +45,7 @@
 
 ### 📊 Libraries & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,seaborn,selenium&perline=6" />
+  <img height="40" src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,selenium&perline=6" />
 </p>
 
 
