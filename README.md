@@ -10,7 +10,7 @@
   <a href="https://github.com/shreejaykurhade">GitHub</a>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -20,7 +20,6 @@
 - 🚀 Exploring **AI systems, automation, and Web3**
 - 📫 Reach me at **kshreejay@gmail.com**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +48,6 @@
   <img src="https://skillicons.dev/icons?i=pandas" />
 </p>
 
----
 
 ## 🚀 Projects
 
@@ -64,7 +62,6 @@
 ### 🔹 UI/UX Development
 - Designed responsive and clean interfaces  
 
----
 
 ## 📈 GitHub Stats
 
@@ -76,7 +73,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreejaykurhade" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -86,7 +82,6 @@
   <a href="https://instagram.com/shreejay_kurhade">Instagram</a>
 </p>
 
----
 
 ## ⚡ Fun Fact
 I prefer building **real-world systems with practical impact** rather than just demo projects.
