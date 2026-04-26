@@ -43,11 +43,6 @@
   <img src="https://skillicons.dev/icons?i=git,linux,postman,selenium,figma" />
 </p>
 
-### 📊 Libraries & Others
-<p align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,selenium&perline=6" />
-</p>
-
 
 ## 🚀 Projects
 
