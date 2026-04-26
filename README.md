@@ -44,9 +44,8 @@
 </p>
 
 ### 📊 Libraries & Others
-### 📊 Libraries & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,seaborn,selenium,opencv,tensorflow,pytorch" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,seaborn,selenium&perline=6" />
 </p>
 
 
