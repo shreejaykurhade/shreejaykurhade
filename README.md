@@ -1,24 +1,92 @@
 <h1 align="center">Hi 👋, I'm Shreejay Kurhade</h1>
-<h3 align="center">I'm a passionate Computer Science student. I love coding and designing, and I'm always open to learning new things to enhance my skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreejaykurhade&label=Profile%20views&color=0e75b6&style=flat" alt="shreejaykurhade" /> </p>
-
-- 📫 How to reach me **kshreejay@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1pxVqlCyRLLu3Td-pz6V6xugnu9peoB5p](https://drive.google.com/drive/folders/1pxVqlCyRLLu3Td-pz6V6xugnu9peoB5p)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/blogsofjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blogsofjay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreejaykurhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreejaykurhade" height="30" width="40" /></a>
-<a href="https://instagram.com/shreejay_kurhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreejay_kurhade" height="30" width="40" /></a>
+<p align="center">
+  🚀 Computer Science Student | Full Stack Developer | Backend & Systems Enthusiast  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.shreejaykurhade.tech/">Portfolio</a> •
+  <a href="https://linkedin.com/in/shreejaykurhade">LinkedIn</a> •
+  <a href="https://github.com/shreejaykurhade">GitHub</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreejaykurhade&show_icons=true&locale=en&layout=compact" alt="shreejaykurhade" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreejaykurhade&show_icons=true&locale=en" alt="shreejaykurhade" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreejaykurhade&" alt="shreejaykurhade" /></p>
+- 🎓 Computer Science student at **K.J. Somaiya College of Engineering**
+- 💡 Interested in **backend systems, scalable architectures, and real-world products**
+- ⚙️ Experienced in **MERN stack development**
+- 🚀 Exploring **AI systems, automation, and Web3**
+- 📫 Reach me at **kshreejay@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,selenium,figma" />
+</p>
+
+### 📊 Libraries & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 Full Stack Applications
+- Built scalable web apps using MERN stack  
+- Designed REST APIs and optimized backend performance  
+- Implemented efficient database schemas  
+
+### 🔹 Automation & Tools
+- Developed automation workflows using Python & Selenium  
+
+### 🔹 UI/UX Development
+- Designed responsive and clean interfaces  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreejaykurhade&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreejaykurhade" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/blogsofjay">Twitter</a> •
+  <a href="https://linkedin.com/in/shreejaykurhade">LinkedIn</a> •
+  <a href="https://instagram.com/shreejay_kurhade">Instagram</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+I prefer building **real-world systems with practical impact** rather than just demo projects.
