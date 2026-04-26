@@ -44,20 +44,6 @@
 </p>
 
 
-## 🚀 Projects
-
-### 🔹 Full Stack Applications
-- Built scalable web apps using MERN stack  
-- Designed REST APIs and optimized backend performance  
-- Implemented efficient database schemas  
-
-### 🔹 Automation & Tools
-- Developed automation workflows using Python & Selenium  
-
-### 🔹 UI/UX Development
-- Designed responsive and clean interfaces  
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
