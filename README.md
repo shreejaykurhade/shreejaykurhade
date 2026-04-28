@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at **K.J. Somaiya College of Engineering**
-- 💡 Interested in **backend systems, scalable architectures, and real-world products**
-- ⚙️ Experienced in **MERN stack development**
-- 🚀 Exploring **AI systems, automation, and Web3**
-- 📫 Reach me at **kshreejay@gmail.com**
+-  Computer Science student at **K.J. Somaiya College of Engineering**
+-  Interested in **backend systems, scalable architectures, and real-world products**
+-  Experienced in **MERN stack development**
+-  Exploring **AI systems, automation, and Web3**
+-  Reach me at **kshreejay@gmail.com**
 
 
 ## 🛠️ Tech Stack
