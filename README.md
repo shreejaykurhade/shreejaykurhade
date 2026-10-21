@@ -143,8 +143,8 @@ Agent-based financial advisory platform for **investments, tax analysis, and cas
 ## Achievements
 
 * 🥈 **2nd Place** — Revengers Hack 2026
+* 🚀 **6th Place** — Monad Blitz Mumbai 2026
 * 🏆 **Winner** — IETE Student Exploration Challenge 2026
-* 🚀 **Finalist** — Mumbai Hacks
 * 🤖 **Finalist** — Gemini HackDays
 * 💻 **Rank 6** — MLSA Competitive Programming
 
