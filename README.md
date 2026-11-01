@@ -142,6 +142,8 @@ Agent-based financial advisory platform for **investments, tax analysis, and cas
 
 ## Achievements
 
+* ⭐ **ACM India Winter School 2026** — Selected for Multimodal and Reasoning-Aware Generative AI, IIIT Allahabad
+* ⭐ **NexFellow 2026** – Top 100 Fellow Globally
 * 🥈 **2nd Place** — Revengers Hack 2026
 * 🚀 **6th Place** — Monad Blitz Mumbai 2026
 * 🏆 **Winner** — IETE Student Exploration Challenge 2026
